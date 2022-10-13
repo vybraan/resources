@@ -183,31 +183,44 @@
 
 
 
-/* =============== DEEP PURPLE ============== */
+/* =============== BLUE ============== */
 /* TEXT */
-.blue{
-    color: #2196f3;
-}
-
-/* 
-'blue-50' : '#e3f2fd'
-'blue-100' : '#bbdefb'
-'blue-200' : '#90caf9'
-'blue-300' : '#64b5f6'
-'blue-400' : '#42a5f5'
-'blue-500' : '#2196f3'
-'blue-600' : '#1e88e5'
-'blue-700' : '#1976d2'
-'blue-800' : '#1565c0'
-'blue-900' : '#0d47a1'
-'blue-100-accent' : '#82b1ff'
-'blue-200-accent' : '#448aff'
-'blue-400-accent' : '#2979ff'
-'blue-700-accent' : '#2962ff' */
+.blue{color: #2196f3;}
+.blue-50{color: #e3f2fd;}
+.blue-100{color: #bbdefb;}
+.blue-200{color: #90caf9;}
+.blue-300{color: #64b5f6;}
+.blue-400{color: #42a5f5;}
+.blue-500{color: #2196f3;}
+.blue-600{color: #1e88e5;}
+.blue-700{color: #1976d2;}
+.blue-800{color: #1565c0;}
+.blue-900{color: #0d47a1;}
+.blue-100-accent{color: #82b1ff;}
+.blue-200-accent{color: #448aff;}
+.blue-400-accent{color: #2979ff;}
+.blue-700-accent{color: #2962ff;}
 
 /* BACKGROUND */
+.bg-blue{background-color: #2196f3;}
+.bg-blue-50{background-color: #e3f2fd;}
+.bg-blue-100{background-color: #bbdefb;}
+.bg-blue-200{background-color: #90caf9;}
+.bg-blue-300{background-color: #64b5f6;}
+.bg-blue-400{background-color: #42a5f5;}
+.bg-blue-500{background-color: #2196f3;}
+.bg-blue-600{background-color: #1e88e5;}
+.bg-blue-700{background-color: #1976d2;}
+.bg-blue-800{background-color: #1565c0;}
+.bg-blue-900{background-color: #0d47a1;}
+.bg-blue-100-accent{background-color: #82b1ff;}
+.bg-blue-200-accent{background-color: #448aff;}
+.bg-blue-400-accent{background-color: #2979ff;}
+.bg-blue-700-accent{background-color: #2962ff;}
 
 
+/* =============== BLUE ============== */
+/* TEXT */
 .light-blue{
     color: #03a9f4;
 }
